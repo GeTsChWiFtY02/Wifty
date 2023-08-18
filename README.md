@@ -1,2 +1,2 @@
-# Wifty
+# github-workflow
 First repository
